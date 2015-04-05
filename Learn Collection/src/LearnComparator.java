@@ -1,11 +1,6 @@
 import java.util.Arrays;
 import java.util.Comparator;
 
-/**
- * 
- * CLASS
- *
- */
 
 public class LearnComparator
 {
